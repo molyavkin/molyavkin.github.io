@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(231, 206, 168);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-size: 14px;
+}
+h1 {
+    font-size: 36px;
+}
+
+img {
+    width: 360px;
+    height: 200px;
+}
+
+p {
+    font-size: 20px;
+}
+
+hr {
+    width: auto;
+}
